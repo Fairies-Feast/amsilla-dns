@@ -1,4 +1,4 @@
-#This is the official Amsilla DNS certificate file.
+#This is the official Amsilla DNS certificate file for web browsers
 #Please note that any person can make a file for this
 @providerName>Amsilla
 @providerPre>https
@@ -6,3 +6,4 @@
 @beginCertificates
 example.com
 amsilla.com
+amsilla-dns.com
